@@ -10,4 +10,4 @@ Les différentes colonnes contenues dans ligne occuperont équitablement l'espac
 
 Copiez la balise suivante dans l'en-tête de la page HTML où vous voulez utiliser le Microframework :
 
-<link href="https://auer404.github.io/microframework2024/microframework.css" rel="stylesheet">
+&lt;link href="https://auer404.github.io/microframework2024/microframework.css" rel="stylesheet">
